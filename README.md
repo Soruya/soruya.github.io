@@ -1,2 +1,2 @@
-# soruya.github.io
-Soojung's Portfolio Site
+# Soojung Choi
+UX/UI and Narrative Designer
